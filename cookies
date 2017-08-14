@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: bid=Jao7LXddods; path="/"; domain=".douban.com"; path_spec; domain_dot; expires="2018-08-13 13:25:59Z"; version=0
+Set-Cookie3: ll="\"108288\""; path="/"; domain=".douban.com"; path_spec; domain_dot; expires="2018-08-13 13:25:59Z"; version=0
+Set-Cookie3: ue="\"120852174@qq.com\""; path="/accounts"; domain=".douban.com"; domain_dot; expires="2018-08-14 06:05:56Z"; httponly=None; version=0
